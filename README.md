@@ -14,7 +14,7 @@ It achieves ECCV 2020 3DPW Challenge Runner Up. Please refer to [arxiv paper](ht
   <img src="../assets/demo/animation/c5_results_compressed.gif" width="32%" />
   <img src="../assets/demo/animation/c0_results_compressed.gif" width="32%" />
 </p>
-
+ 
 <p float="center">
   <img src="../assets/demo/animation/c4_results_compressed.gif" width="32%" />
   <img src="../assets/demo/animation/c2_results_compressed.gif" width="32%" />
